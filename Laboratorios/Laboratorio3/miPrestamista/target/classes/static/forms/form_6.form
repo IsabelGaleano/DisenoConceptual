@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# No se ha aprobado su contrato, vuelva pronto!",
+      "type": "text",
+      "id": "Field_1w6f0ql"
+    }
+  ],
+  "type": "default",
+  "id": "form6"
+}

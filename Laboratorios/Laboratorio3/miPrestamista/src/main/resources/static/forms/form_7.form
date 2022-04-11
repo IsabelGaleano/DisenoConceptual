@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Resultado del contrato",
+      "type": "text",
+      "id": "Field_1vtxvcw"
+    },
+    {
+      "label": "Monto calculado",
+      "type": "textfield",
+      "id": "Field_1f87vn9",
+      "key": "montoCalculado"
+    },
+    {
+      "label": "Firma",
+      "type": "textfield",
+      "id": "Field_16jl8so",
+      "key": "firmaContrato"
+    }
+  ],
+  "type": "default",
+  "id": "form7"
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Estados contables",
+      "type": "text",
+      "id": "Field_1hf3hk9"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "estadosSi"
+        },
+        {
+          "value": "estadosNo",
+          "label": "No"
+        }
+      ],
+      "label": "Indique si posee estados contables",
+      "type": "radio",
+      "id": "Field_09bstj7",
+      "key": "poseeEstados"
+    }
+  ],
+  "type": "default",
+  "id": "form2"
+}

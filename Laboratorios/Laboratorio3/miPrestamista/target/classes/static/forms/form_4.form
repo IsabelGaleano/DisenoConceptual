@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Contrato aprobado",
+      "type": "text",
+      "id": "Field_1hmsvmq"
+    },
+    {
+      "label": "Firme el contrato",
+      "type": "textfield",
+      "id": "Field_060c4sx",
+      "key": "firmaContrato"
+    }
+  ],
+  "type": "default",
+  "id": "form4"
+}

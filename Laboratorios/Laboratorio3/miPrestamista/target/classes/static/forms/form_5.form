@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Contrato no aprobado",
+      "type": "text",
+      "id": "Field_1aeq0ad"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "prendaSi"
+        },
+        {
+          "label": "No",
+          "value": "prendaNo"
+        }
+      ],
+      "label": "Indique si desea poner una prenda sobre propiedad",
+      "type": "radio",
+      "id": "Field_08ackik",
+      "key": "prenda"
+    }
+  ],
+  "type": "default",
+  "id": "form5"
+}

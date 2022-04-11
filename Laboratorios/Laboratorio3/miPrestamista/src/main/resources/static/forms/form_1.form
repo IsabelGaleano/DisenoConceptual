@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registrar prestamo",
+      "type": "text",
+      "id": "Field_1g58mtr"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_04ad132",
+      "key": "nombre"
+    },
+    {
+      "label": "Primer apellido",
+      "type": "textfield",
+      "id": "Field_1geo9n8",
+      "key": "apellido1"
+    },
+    {
+      "label": "Segundo apellido",
+      "type": "textfield",
+      "id": "Field_077c6ue",
+      "key": "apellido2"
+    },
+    {
+      "values": [
+        {
+          "label": "Independiente",
+          "value": "independiente"
+        },
+        {
+          "label": "En planilla",
+          "value": "planilla"
+        }
+      ],
+      "label": "Tipo de empleado",
+      "type": "radio",
+      "id": "Field_0b3cnuh",
+      "key": "tipo"
+    },
+    {
+      "label": "Ingresos mensuales",
+      "type": "textfield",
+      "id": "Field_1qtq4xv",
+      "key": "ingresos"
+    }
+  ],
+  "type": "default",
+  "id": "form1"
+}

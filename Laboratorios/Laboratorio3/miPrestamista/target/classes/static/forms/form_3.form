@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Monto del prestamo",
+      "type": "text",
+      "id": "Field_0bad0gr"
+    },
+    {
+      "label": "Monto del prestamo",
+      "type": "textfield",
+      "id": "Field_1s6q8u3",
+      "key": "montoPrestamo"
+    }
+  ],
+  "type": "default",
+  "id": "form3"
+}
